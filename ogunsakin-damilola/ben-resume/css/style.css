@@ -1,0 +1,59 @@
+.rounded-btn {
+    padding: .5rem 2rem;
+    border-radius: 50px;
+}
+
+.rounded-image {
+    border-radius: 25px;
+}
+
+.btn-yellow {
+    background-color: yellow !important;
+    color: black !important;
+    border-style: none !important;
+}
+
+.btn-black{
+    background-color: #000 !important;
+    color: #fff !important;
+    border-style: none !important;
+}
+
+.navbar-brand{
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    margin-right: 1rem;
+    font-size: 2rem;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.navbar-nav {
+    margin-left: 20%;
+}
+
+.navbar-nav li{
+    margin-right: 50px;
+}
+
+
+.navbar-nav li:hover{
+    text-decoration: underline;
+    text-decoration-color: yellow;
+}
+
+.h2{
+    font-size: 2rem;
+}
+
+.img-icon {
+    max-height: 40px;
+    max-width: 40px;
+}
+
+p {
+    line-height: 2.5rem;
+    font-size: 1.2rem;
+    color: #a0a0a0;
+}
+
